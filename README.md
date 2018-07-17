@@ -11,15 +11,15 @@ Para realizar as demos do código do artigo, se faz necessário instalar os segu
 * Bower.js
 * Nodemon
 
-## Executar Localmente
+## 💾 Executar Localmente
 
 Caso você deseja executar o projeto na sua máquina local, basta seguir os passos abaixo:
 
-## Começando
+### Começando...
 
 Para começar você deve simplesmente clonar o repositório do projeto e instalar as dependências.
 
-### Pre-Requisitos
+### Pré-Requisitos
 
 Antes de instalar as dependências no projeto, você precisa já ter instalado na sua máquina o Node.Js. Caso não tenha, basta realizar o download [Aqui](https://nodejs.org/en/)
 
