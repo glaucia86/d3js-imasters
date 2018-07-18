@@ -9,7 +9,6 @@ Para realizar as demos do código do artigo, se faz necessário instalar os segu
 * Visual Studio Code - [DOWNLOAD AQUI](https://code.visualstudio.com/)
 * Node.JS - [DOWNLOAD AQUI](https://nodejs.org/en/)
 * Bower.js
-* Nodemon
 
 ## 💾 Executar Localmente
 
