@@ -7,8 +7,8 @@ Repositório responsável pelos códigos de exemplo desenvolvidos no artigo do i
 Para realizar as demos do código do artigo, se faz necessário instalar os seguintes programas:
 
 * Visual Studio Code - [DOWNLOAD AQUI](https://code.visualstudio.com/)
-* Node.JS - [DOWNLOAD AQUI](https://nodejs.org/en/)
-* Bower.js
+* Node.Js - [DOWNLOAD AQUI](https://nodejs.org/en/)
+* Http-server - [INSTRUÇÕES AQUI](https://www.npmjs.com/package/http-server)
 
 ## 💾 Executar Localmente
 
@@ -38,20 +38,15 @@ Depois, basta digitar no cmd a seguinte instrução:
 npm install
 ```
 
-Ao digitar a instrução acima, automaticamente ele irá baixar todas as dependências listadas no arquivo package.Json e mais o bower.Json para o projeto. Criando assim, duas pastas no projeto: 
-
-* `node_modules` - que contêm os packages do npm que precisará para o projeto.
-* `bower_components` - contêm os arquivos do angular.
-
 ### Executando a Aplicação
 
 Bom, agora na mesma tela do cmd, basta iniciar o server para o projeto ser executado localmente.
 
 ```
-npm start
+http-server
 ```
 
-Agora, abre a página da aplicação em `http://localhost:3000/index.html`. E pronto a aplicação será executada de maneira local na sua máquina.
+Agora, abre a página da aplicação em `http://localhost:8080/src/index.html`. E pronto a aplicação será executada de maneira local na sua máquina.
 
 
 
