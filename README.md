@@ -6,7 +6,7 @@ Repositório responsável pelos códigos de exemplo desenvolvidos no artigo do i
 
 Para realizar as demos do código do artigo, se faz necessário instalar os seguintes programas:
 
-* Visual Studio Code - [DOWNLOAD AQUI](https://code.visualstudio.com/)
+* Visual Studio Code - [DOWNLOAD AQUI](https://code.visualstudio.com/?WT.mc_id=javascript-0000-gllemos)
 * Node.Js - [DOWNLOAD AQUI](https://nodejs.org/en/)
 * Http-server - [INSTRUÇÕES AQUI](https://www.npmjs.com/package/http-server)
 
